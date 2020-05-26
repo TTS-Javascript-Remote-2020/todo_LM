@@ -1,0 +1,22 @@
+#container{
+  background-image: url(blank-notepad.png);
+  background-repeat: no-repeat;
+  background-size: 700px;
+}
+#todoList {
+  margin-left: 80px;
+  height: 500px;
+  
+}
+#todoInput {
+  margin-left: 150px;
+  margin-top: 75px;
+}
+li {
+  margin-top: 5px;
+  padding: 2px;
+  height: 20px;
+}
+li:hover {
+  text-decoration: line-through;
+}
